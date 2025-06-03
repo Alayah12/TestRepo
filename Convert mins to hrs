@@ -1,0 +1,11 @@
+# Convert minutes to hours and minutes
+total_minutes = 245
+
+# Calculate hours using integer division
+hours = total_minutes // 60
+
+# Calculate remaining minutes using the modulo operator
+minutes = total_minutes % 60
+
+# Print the result
+print(f"{total_minutes} minutes is equal to {hours} hours and {minutes} minutes")
