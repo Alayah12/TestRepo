@@ -1,0 +1,17 @@
+ Tools
+Programming Languages** | Python | Versatile and popular language with a rich ecosystem of libraries for data analysis and machine learning. |
+ R |  Open-source language and environment for statistical computing and graphics. |
+ SQL |  Used for managing and manipulating relational databases. |
+Data Visualization Tools** | Tableau |  Business intelligence tool known for interactive data visualizations and dashboards. |
+Power BI |  Microsoft's tool for creating interactive reports and dashboards from various data sources. |
+Matplotlib |  Python library for creating static, interactive, and animated plots. |
+Seaborn |  Python library built on Matplotlib for enhancing statistical data visualizations. |
+Machine Learning Frameworks** | TensorFlow |  Open-source library for building and deploying deep learning models. |
+PyTorch |  Open-source deep learning framework known for flexibility and GPU/TPU support. |
+Scikit-learn |  Python library for machine learning algorithms, including classification, regression, clustering, and more. |
+Big Data Tools** | Apache Spark |  Distributed computing system for large-scale data processing and analytics. |
+Apache Hadoop | Open-source framework for storing and processing large datasets across clusters. |
+Development Environments** | Jupyter Notebook |  Interactive web application for creating and sharing documents with live code, equations, visualizations, and text. |
+GitHub |  Web-based platform for version control and collaboration on code projects. |
+Data Management** | Microsoft Excel |  Spreadsheet software used for data organization, analysis, and visualization. |
+KNIME |  Open-source data analytics platform for visual workflow design.
