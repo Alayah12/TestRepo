@@ -1,0 +1,19 @@
+Arithmetic expressions are combinations of numbers, variables, and operators that evaluate to a numerical value.  They are fundamental to performing calculations in various programming languages, including those used in data science.
+
+Here are some examples of arithmetic expressions:
+
+```python
+# This is a simple addition
+4 + 7
+
+# This expression involves multiplication and addition, following order of operations
+2 * 7 + 8
+
+# This includes subtraction and division
+(10 - 3) / 6
+
+# Exponentiation (power of)
+2 ** 3
+
+# Modulo (remainder) operation
+15 % 2
