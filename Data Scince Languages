@@ -1,0 +1,15 @@
+**NumPy:** For numerical computations and working with arrays and matrices.
+-   Pandas: For data manipulation, cleaning, and analysis using DataFrames.
+-   Matplotlib:For creating static, interactive, and animated visualizations.
+-   Seaborn: Built on Matplotlib for enhancing statistical data visualizations.
+-   Scikit-learn:For machine learning algorithms, including classification, regression, clustering, and more.
+-   TensorFlow: For building and deploying deep learning models.
+-   Keras: A high-level API for neural networks, often used with TensorFlow.
+-   PyTorch: A deep learning framework, similar to TensorFlow, known for its flexibility.
+-   Statsmodels:For statistical modeling, hypothesis testing, and statistical analysis.
+-   SciPy:For scientific and technical computing, including optimization, integration, and linear algebra.
+-   NLTK:For working with human language data (text).
+-   Beautiful Soup:For web scraping and parsing HTML and XML.
+-   Plotly:For creating interactive, web-based data visualizations.
+-   Spark:A distributed computing framework for big data processing.
+-   Dask:For flexible parallel computing and working with larger-than-memory datasets.
